@@ -9,3 +9,5 @@ Cada arquivo .bat adicionado ao repositório terá uma breve descrição no arqu
 📃 1. Script para copiar e colar relatórios *.fr3*.
 
 📃 2. Script para atualizar o banco de dados por meio do isql, no firebird.
+
+📃 3. Script bat para restaurar um backup para torná-lo ativo novamente como um banco de dados.
