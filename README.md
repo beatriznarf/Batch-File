@@ -2,9 +2,9 @@
 
 Seja bem-vindo ao meu repositório "Batch File"!
 
-Neste repositório, compartilho arquivos que desenvolvi e estou desenvolvendo para uso no meu dia a dia, além de leituras que utilizo como base para aprofundar meu entendimento sobre "batch files".
+Neste repositório, compartilho arquivos que desenvolvi e estou desenvolvendo para uso no meu dia a dia, além de leituras que utilizo como base para aprofundar meu entendimento sobre arquivos bats...
 
-Cada arquivo .bat adicionado ao repositório terá uma breve descrição no arquivo README para facilitar a pesquisa e o entendimento sobre o que está incluído aqui.
+Cada arquivo .bat adicionado ao repositório terá uma breve descrição para facilitar a pesquisa.
 
 📃 1. Script para copiar e colar relatórios *.fr3*.
 
